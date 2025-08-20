@@ -1,5 +1,3 @@
-CodeAlpha Internship Tasks
-
 Welcome to my CodeAlpha Internship repository. This repository contains the Python projects I completed as part of my internship tasks. Each task is implemented in a separate Python file with clear instructions and outputs.
 
 ## Task 2: Stock Portfolio Tracker
